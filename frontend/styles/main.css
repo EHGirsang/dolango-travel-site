@@ -97,6 +97,7 @@ header .btn-get-started:hover {
   padding: 30px;
   background-size: cover;
   margin-bottom: 20px;
+  border-radius: 9px;
 }
 .section-popular-content .section-popular-travel .travel-country {
   font-size: 16px;
