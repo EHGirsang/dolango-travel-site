@@ -349,7 +349,10 @@ header .btn-get-started:hover {
 .section-details-content .btn-join-now {
   background-color: #FF9E53;
   color: #FFFFFF;
-  border-radius: 20px;
+  border-top-left-radius: 0px;
+  border-top-right-radius: 0px;
+  border-bottom-left-radius: 11px;
+  border-bottom-right-radius: 11px;
 }
 .section-details-content .btn-join-now:hover {
   background-color: #FF857C;
